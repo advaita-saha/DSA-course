@@ -1,6 +1,6 @@
 # DSA-course
 
-Created by @Advaita Saha
+Created by [Advaita Saha](https://github.com/advaita-saha).
 It is a compilation of multiples courses and content from different websites and places. It is updated as I learn on the go.
 
 Staring from basics of C++ to complex DSA for interview preparation and basics of Competitive Programming.
