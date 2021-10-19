@@ -15,4 +15,5 @@ Staring from basics of C++ to complex DSA for interview preparation and basics o
 7. [Advanced Functions](advanced%20functions/)
 8. [Arrays](arrays/)
 9. [2D Arrays](2D%20arrays/)
-10. [Character Array](character%20array)
+10. [Character Array](character%20array/)
+11. [Pointers](pointers/)
