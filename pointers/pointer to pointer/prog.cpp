@@ -1,13 +1,23 @@
 /*
-Swapping 2 variables using the address
-Address of ‘a’ and ‘b’ gets interchanged, thus their values get swapped.
+
+Pointer to pointer 
+De-referencing pointers twice
+
 */
 #include<iostream>
 using namespace std;
 
 int main(){
 
-    
+    int a = 10;
+    int *p;
+    p = &a;
+
+    cout<<*p<<endl;
+    int **q = &p;
+
+    cout<<*q<<endl;
+    cout<<**q<<endl;
 
     return 0; 
 }
