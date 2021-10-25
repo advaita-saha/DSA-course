@@ -17,3 +17,4 @@ Staring from basics of C++ to complex DSA for interview preparation and basics o
 9. [2D Arrays](2D%20arrays/)
 10. [Character Array](character%20array/)
 11. [Pointers](pointers/)
+12. [Dynamic Memory Allocation](dynamic%20memory%20allocation/)
