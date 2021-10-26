@@ -18,3 +18,4 @@ Staring from basics of C++ to complex DSA for interview preparation and basics o
 10. [Character Array](character%20array/)
 11. [Pointers](pointers/)
 12. [Dynamic Memory Allocation](dynamic%20memory%20allocation/)
+13. [Strings](strings/)
