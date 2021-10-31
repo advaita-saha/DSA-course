@@ -19,4 +19,3 @@ Staring from basics of C++ to complex DSA for interview preparation and basics o
 11. [Pointers](pointers/)
 12. [Dynamic Memory Allocation](dynamic%20memory%20allocation/)
 13. [Strings](strings/)
-14. jsghrubicuahrlinvos
